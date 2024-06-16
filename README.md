@@ -1,7 +1,5 @@
 # Angry Bird Unity 2D Game
 
-![Gameplay Screenshot](screenshots/gameplay.png)
-
 ## Overview
 Angry Bird Unity 2D is a recreation of the classic Angry Birds game using Unity's 2D features. It includes several levels with varying difficulty and physics-based gameplay.
 
